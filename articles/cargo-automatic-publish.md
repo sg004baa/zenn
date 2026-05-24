@@ -3,7 +3,7 @@ title: "コマンドひとつで複数プラットフォームにrustプロジ�
 emoji: "🦀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Rust, Homebrew, CLI]
-published: false
+published: true
 ---
 # 概要
 rustで作成した自作toolをコマンドいっぱつでcrates.io, homebrewにリリースできるようになったので手順を書き残しておきます。
